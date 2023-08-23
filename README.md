@@ -1,4 +1,4 @@
-# 13 Object-Relational Mapping (ORM): E-Commerce Back End
+# Object-Relational Mapping (ORM): E-Commerce Back End
 ## Description 
 This application is built using mySQL, Sequalize, JS, and Dotenv to test my knowledge of the technilogies and test through Insomnia
 
